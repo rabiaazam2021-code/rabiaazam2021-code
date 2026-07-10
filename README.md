@@ -1,6 +1,6 @@
 # 👋 Salam, I'm Rabia Azam!
 
-### 🎓 AI Student @ BZU | Aspiring Machine Learning Engineer & Full-Stack Mobile App Developer
+### 🎓 AI Student @ BZU | Aspiring Machine Learning Engineer & Full-Stack Mobile App Developer |MERN Stack Developver
 
 A passionate Information Technology student currently exploring the intersection of **Artificial Intelligence** and **Mobile Application Development**. I love building smart, real-world solutions and optimizing deep learning architectures.
 
